@@ -37,7 +37,7 @@
 ### SYSTEM OPERATING 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![DOCKER](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
+![DOCKER](https://img.shields.io/badge/docker-505050.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ### Contact 
 [![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
