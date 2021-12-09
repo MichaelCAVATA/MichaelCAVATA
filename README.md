@@ -35,7 +35,7 @@
 
 ### Contact 
 [![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
-[![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
+[![MAIL](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=fff)](cavata.michael@gmail.com)
 
 ### STATS
 <img src="https://github-readme-stats.vercel.app/api?username=MichaelCAVATA&hide=stars&show_icons=true&theme=blueberry" />
