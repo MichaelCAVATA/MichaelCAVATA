@@ -17,7 +17,7 @@
 ![VUE.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=OC08D)
 ![NUXT.JS](https://img.shields.io/badge/nuxt.js-505050.svg?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-505050.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### Base de Données
@@ -31,7 +31,7 @@
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PHPSTORM](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![PHPSTORM](https://img.shields.io/badge/PhpStorm-505050.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![SUBLIM](https://img.shields.io/badge/sublim-ff8c00.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ### SYSTEM OPERATING 
