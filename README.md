@@ -38,5 +38,5 @@
 
 ### STATS
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=MichaelCAVATA&hide=stars&show_icons=true&theme=blueberry" />
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCAVATA&layout=compact&theme=blueberry" />  
+<img src="https://github-readme-stats.vercel.app/api?username=MichaelCAVATA&hide=stars&show_icons=true&theme=blueberry" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCAVATA&layout=compact&theme=blueberry" />  
