@@ -33,6 +33,12 @@
 ![PHPSTORM](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![SUBLIM](https://img.shields.io/badge/sublim-ff8c00.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
+### SYSTEM OPERATING 
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![LINUX](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+
 ### Contact 
 [![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
 [![MAIL](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cavata.michael@gmail.com)
