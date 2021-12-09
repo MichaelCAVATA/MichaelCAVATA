@@ -15,9 +15,9 @@
 ### Frameworks et Librairies
 ![SYMFONY](https://img.shields.io/badge/symfony-%2320232a.svg?style=for-the-badge&logo=symfony&logoColor=fff)
 ![VUE.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=OC08D)
-![NUXT.JS](https://img.shields.io/badge/nuxt.js-505050.svg?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
+![NUXT.JS](https://img.shields.io/badge/nuxt.js-%2320232a.svg?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 
-![NPM](https://img.shields.io/badge/NPM-505050.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### Base de Données
@@ -37,7 +37,7 @@
 ### SYSTEM OPERATING 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![DOCKER](https://img.shields.io/badge/docker-505050.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
+![DOCKER](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ### Contact 
 [![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
