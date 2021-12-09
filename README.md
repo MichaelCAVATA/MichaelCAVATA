@@ -32,7 +32,7 @@
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHPSTORM](https://img.shields.io/badge/PhpStorm-%2320232a.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
-![SUBLIM](https://img.shields.io/badge/sublim-ff8c00.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+![SUBLIM](https://img.shields.io/badge/sublim-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ### SYSTEM OPERATING 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
