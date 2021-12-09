@@ -30,4 +30,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHPSTORM](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
-![SUBLIM](https://img.shields.io/badge/sublim-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+![SUBLIM](https://img.shields.io/badge/sublim-ff8c00.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+
+### Contact 
+
+[![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
+
+### STATS
+
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=MichaelCAVATA&hide=stars&show_icons=true&theme=blueberry" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCAVATA&layout=compact&theme=blueberry" />  
