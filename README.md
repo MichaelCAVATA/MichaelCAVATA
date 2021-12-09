@@ -22,6 +22,7 @@
 ### Base de Données
 ![MYSQL](https://img.shields.io/badge/mysql-6C78AF.svg?style=for-the-badge&logo=mysql&logoColor=fff)
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=fff)
+![SQLITE](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=fff)
 
 ### Versionning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,6 +34,7 @@
 ![SUBLIM](https://img.shields.io/badge/sublim-ff8c00.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ### Contact 
+[![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
 [![Linkedin](https://img.shields.io/badge/-Michael%20CAVATA-0A66C2?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/michael-cavata/)
 
 ### STATS
