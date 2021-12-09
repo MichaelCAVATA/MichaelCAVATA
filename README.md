@@ -34,7 +34,7 @@
 ![PHPSTORM](https://img.shields.io/badge/PhpStorm-%2320232a.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![SUBLIM](https://img.shields.io/badge/sublim-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-### SYSTEM OPERATING 
+### OPERATING SYSTEM
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
